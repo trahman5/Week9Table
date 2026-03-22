@@ -1,0 +1,28 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(210, 215, 221);
+}
+
+th {
+    background-color: #DE7878;
+    border: 2px solid black;
+    border-bottom: 8px solid black;
+}
+td {
+    background-color: rgb(209, 238, 255);
+    border: 2px solid black;
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+footer {
+    text-align: center;
+    font-size: 25px;
+    color: #750000;
+}
+h2, p {
+    color: #750000;
+    text-align: center;
+}
